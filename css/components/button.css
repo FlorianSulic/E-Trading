@@ -1,0 +1,17 @@
+.btn-blue {
+	background-color: mediumblue;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'roboto', sans-serif;
+	
+}
+.btn-red {
+	background-color: mediumpurple;
+	padding: 15px 20 px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'roboto', sans-serif;
+}
